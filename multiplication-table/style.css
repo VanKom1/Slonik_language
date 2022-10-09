@@ -1,0 +1,17 @@
+
+.main_flex{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    height: 100%;
+    justify-content: space-around;
+    align-content: stretch;
+}
+.flex_box{
+    display: flex;
+    flex-direction: column;  
+    align-items: center;
+    width: 20%;
+    border: 2px solid black;
+
+}
